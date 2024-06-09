@@ -9,8 +9,6 @@ According to their website:
 
 In their website home, they display a "Ransomware Top Ten List":
 
-![](C:\Users\Pimenta\AppData\Roaming\marktext\images\2024-06-09-17-36-26-image.png)
-
 In 2023 and 2024, the number of ransomware attacks skyrocketed. According to research from Nordlocker, the top industries hit by ransomware include:
 
 1. Manufacturing
@@ -31,28 +29,35 @@ They offer a calculator where you can input your concerns regarding the Cyberse
 
 This is the Calculator initial screen:
 
-![](C:\Users\Pimenta\AppData\Roaming\marktext\images\2024-06-09-17-45-36-image.png)
+Image 1
+
+
 
 There are filters with Operation Systems:
 
-![](C:\Users\Pimenta\AppData\Roaming\marktext\images\2024-06-09-17-45-54-image.png)
+Image 2
+
+
 
 Detection Analysis tools:
 
-![](C:\Users\Pimenta\AppData\Roaming\marktext\images\2024-06-09-17-46-08-image.png)
+Image 3
+
+
 
 NIST 800-53 and CIS Security Controls, along with other filters with a range from "none" to "high" to help you calibrate the results. This range is inversely proportional, so, if you choose "high" for your "Network Monitoring Components" you are informing the tool you already have a well-defined network monitoring, so the top techniques for it will be way below, and others with none or low range will be prioritized (as it is possible to infer that as they are low or non-existent, they will probably suffer from more possibility of attacks):
 
 
 
-X
+Image 4
 
 
 
 Once you have made your choices, you must click on "Generate Results", and the calculator will provide your top techniques:
 
-![](C:\Users\Pimenta\OneDrive\Imagens\teste%20git\TopTechniques.png)
 
+
+Image 5
 
 
 
