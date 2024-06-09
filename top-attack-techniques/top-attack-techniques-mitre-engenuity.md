@@ -31,30 +31,20 @@ This is the Calculator initial screen:
 
 ![alt text](https://github.com/TatianePimentaLeal/mitre-attack-framework/blob/main/top-attack-techniques/top-attack-images/1.TopTechniques.png)
 
-
-
 There are filters with Operation Systems:
 
 ![alt text](https://github.com/TatianePimentaLeal/mitre-attack-framework/blob/main/top-attack-techniques/top-attack-images/2.TopTechniques.png)
 
-
-
 Detection Analysis tools:
 
-![alt text] (https://github.com/TatianePimentaLeal/mitre-attack-framework/blob/main/top-attack-techniques/top-attack-images/3.TopTechniques.png)
-
-
+![alt text](https://github.com/TatianePimentaLeal/mitre-attack-framework/blob/main/top-attack-techniques/top-attack-images/3.TopTechniques.png)
 
 NIST 800-53 and CIS Security Controls, along with other filters with a range from "none" to "high" to help you calibrate the results. This range is inversely proportional, so, if you choose "high" for your "Network Monitoring Components" you are informing the tool you already have a well-defined network monitoring, so the top techniques for it will be way below, and others with none or low range will be prioritized (as it is possible to infer that as they are low or non-existent, they will probably suffer from more possibility of attacks):
 
-![alt text] (https://github.com/TatianePimentaLeal/mitre-attack-framework/blob/main/top-attack-techniques/top-attack-images/4.TopTechniques.png)
-
-
+![alt text](https://github.com/TatianePimentaLeal/mitre-attack-framework/blob/main/top-attack-techniques/top-attack-images/4.TopTechniques.png)
 
 Once you have made your choices, you must click on "Generate Results", and the calculator will provide your top techniques:
 
-![alt text] (https://github.com/TatianePimentaLeal/mitre-attack-framework/blob/main/top-attack-techniques/top-attack-images/5.TopTechniques.png)
-
-
+![alt text](https://github.com/TatianePimentaLeal/mitre-attack-framework/blob/main/top-attack-techniques/top-attack-images/5.TopTechniques.png)
 
 It will allow preparing a narrowed strategy to remediate the lack of security, prepare a report, and have an appropriate data visualization to show to the security board from your company.
