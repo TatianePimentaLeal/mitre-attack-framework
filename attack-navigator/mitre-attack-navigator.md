@@ -4,11 +4,7 @@ According to Mitre website (https://mitre-attack.github.io/attack-navigator/):
 
 The ATT&CK Navigator is a web-based tool for annotating and exploring ATT&CK matrices. It can be used to visualize defensive coverage, red/blue team planning, the frequency of detected techniques, and more.
 
-
-
 Mitre ATT&CK tools are very important in the Cybersecurity world, for defensive,  offensive, and continuous threat detection (CTD).
-
-
 
 This is the initial part of the site:
 ![](C:\Users\Pimenta\AppData\Roaming\marktext\images\2024-06-09-16-56-39-image.png)
